@@ -1,0 +1,17 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: burlywood;
+}
+
+.main {
+    font-size: 30px;
+    background-color: fuchsia;
+    color: black;
+}
+
+.button{
+    font-size: 14px;
+    font-weight: 400;
+    background-color: gold;
+}
+
