@@ -1,18 +1,22 @@
 body {
     font-family: "Times New Roman", sans-serif;
     background-color: burlywood;
+    text-align: center;
 }
 
 .main {
     font-size: 30px;
     background-color: fuchsia;
     color: black;
-    margin: 8px auto;
+    margin-right: 1000px;
+    padding: 5px;
+    display: block;
 }
 
 .button{
     font-size: 14px;
     font-weight: 400;
     background-color: gold;
+    Padding: 5px;
 }
 
